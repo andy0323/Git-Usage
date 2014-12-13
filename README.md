@@ -2,6 +2,8 @@
 
 ## Usage
 
+![指令大全](resource/cmd.png)
+
 ## Contact
 
 **author:** Andy Jin  
